@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.header{
+    background-color: rgb(234, 234, 234);
+    padding: 10px 20px ;
+}
+
+.links{
+    float: right;
+    padding: 10px 20px;
+}
+
+.logo {
+    float: left;
+    padding: 0;
+    margin: 0;
+    font-size: 50px;
+    border-radius: 20%;
+}
+
+a:hover{
+    background-color: brown;
+    border-radius: 10%;
+    
+}
